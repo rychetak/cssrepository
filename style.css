@@ -1,0 +1,63 @@
+
+.class1 {
+    background-color: red;
+}
+/*#id1 {
+    background-color: red;
+  }
+
+  a {
+    background-color: rgb(0, 255, 13);
+  }
+
+  p {
+    background-color: rgb(20, 16, 248);
+  } 
+
+  .class2.class3 {
+    background-color: rgb(255, 0, 221);
+  }
+
+  .class2 p {
+    background-color: rgb(225, 255, 0);
+  }
+
+  .class5, a {
+  background-color: rgb(255, 128, 0);
+}
+
+.class2 > p {
+    background-color: rgb(0, 255, 34);
+  } 
+
+  .class2, .class6 {
+    background-color: rgb(255, 255, 255);
+  }
+*/
+
+
+/* zde je ukazano, jak nastavit obrazek jako pozadi */
+.div-with-bg{
+    background-image: url("kitty.jpeg");
+    background-repeat: no-repeat;
+    height: 40vh;
+}
+
+/* zde je ukazano, jak funguje box model */
+
+.container {
+    background-color: rgb(179, 179, 179);
+}
+
+.pruh{
+    background-color: rgb(255, 230, 39);
+    height: 50px;
+}
+
+.box {
+    background-color: brown;
+    border: 5px solid black;
+}
+
+
+/* zde je vytvoreno navigacni menu */
